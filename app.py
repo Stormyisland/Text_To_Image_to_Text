@@ -1,3 +1,3 @@
 
 import os
-from huggingface_hur import InferanceClient
+from huggingface_hub import InferenceClient
